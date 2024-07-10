@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 this is the first line of code of first file
 this is the second line of code of first file
+=======
+I am Noman shafique
+I am a software Engineer
+>>>>>>> ce6bd1a (updating with second line)
