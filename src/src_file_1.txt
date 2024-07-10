@@ -4,4 +4,8 @@ this is the second line of code of first file
 =======
 I am Noman shafique
 I am a software Engineer
+<<<<<<< HEAD
 >>>>>>> ce6bd1a (updating with second line)
+=======
+I am a design Engineer
+>>>>>>> e5731b6 (updating with third line)
