@@ -1,5 +1,8 @@
+this is the first line of code of second file
 I am nomi
 i love development
 i care for others
 no one knows
 what to do
+
+this is the second line of code of second file
